@@ -1,0 +1,48 @@
+             id,work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+0,2020,MI,FT,Data Scientist,70000,EUR,-0.1803219971071878,DE,No remote,DE,L
+1,2020,SE,FT,Machine Learning Scientist,260000,USD,1.9442396369390498,JP,No remote,JP,S
+2,2020,SE,FT,Big Data Engineer,85000,GBP,0.1639035195492683,GB,Partially remote,GB,M
+3,2020,MI,FT,Product Data Analyst,20000,USD,-0.8858834831167708,HN,No remote,HN,S
+4,2020,SE,FT,Machine Learning Engineer,150000,USD,0.6470998735801321,US,Partially remote,US,L
+5,2020,EN,FT,Data Analyst,72000,USD,-0.27269014043800965,US,Fully remote,US,L
+6,2020,SE,FT,Lead Data Scientist,190000,USD,1.118787060256102,US,Fully remote,US,S
+7,2020,MI,FT,Data Scientist,11000000,HUF,-0.700333536058111,HU,Partially remote,HU,L
+8,2020,MI,FT,Business Data Analyst,135000,USD,0.4702171785766433,US,Fully remote,US,L
+9,2020,SE,FT,Lead Data Engineer,125000,USD,0.35229538190765075,NZ,Partially remote,NZ,S
+10,2020,EN,FT,Data Scientist,45000,EUR,-0.5165406237698192,FR,No remote,FR,S
+11,2020,MI,FT,Data Scientist,3000000,INR,-0.6443678513590072,IN,No remote,IN,L
+12,2020,EN,FT,Data Scientist,35000,EUR,-0.6510304328708053,FR,No remote,FR,M
+13,2020,MI,FT,Lead Data Analyst,87000,USD,-0.09580744543452085,US,Fully remote,US,L
+14,2020,MI,FT,Data Analyst,85000,USD,-0.11939180476831936,US,Fully remote,US,L
+15,2020,MI,FT,Data Analyst,8000,USD,-1.0273896391195618,PK,Partially remote,PK,L
+16,2020,EN,FT,Data Engineer,4450000,JPY,-0.6301228983213929,JP,Fully remote,JP,S
+17,2020,SE,FT,Big Data Engineer,100000,EUR,0.22313563801610323,PL,Fully remote,GB,S
+18,2020,EN,FT,Data Science Consultant,423000,INR,-1.0544291070957619,IN,Partially remote,IN,M
+19,2020,MI,FT,Lead Data Engineer,56000,USD,-0.46136501510839767,PT,Fully remote,US,M
+20,2020,MI,FT,Machine Learning Engineer,299000,CNY,-0.6107601393083443,CN,No remote,CN,M
+21,2020,MI,FT,Product Data Analyst,450000,INR,-1.0501249615173436,IN,Fully remote,IN,L
+22,2020,SE,FT,Data Engineer,42000,EUR,-0.5568934625899485,GR,Partially remote,GR,L
+25,2020,EX,FT,Director of Data Science,325000,USD,2.710731315287501,US,Fully remote,US,L
+26,2020,EN,FT,Research Scientist,42000,USD,-0.6264555304449873,NL,Partially remote,NL,L
+27,2020,SE,FT,Data Engineer,720000,MXN,-0.726559343637295,MX,No remote,MX,S
+28,2020,EN,CT,Business Data Analyst,100000,USD,0.057490890235169435,US,Fully remote,US,L
+29,2020,SE,FT,Machine Learning Manager,157000,CAD,0.25918433125781426,CA,Partially remote,CA,L
+30,2020,MI,FT,Data Engineering Manager,51999,EUR,-0.42241544566862943,DE,Fully remote,DE,S
+31,2020,EN,FT,Big Data Engineer,70000,USD,-0.29627449977180814,US,Fully remote,US,L
+32,2020,SE,FT,Data Scientist,60000,EUR,-0.3148118062081738,GR,Fully remote,US,L
+33,2020,MI,FT,Research Scientist,450000,USD,4.184753773649907,US,No remote,US,M
+34,2020,MI,FT,Data Analyst,41000,EUR,-0.5703365474102137,FR,Partially remote,FR,L
+35,2020,MI,FT,Data Engineer,65000,EUR,-0.24757279774751423,AT,Partially remote,AT,L
+36,2020,MI,FT,Data Science Consultant,103000,USD,0.0928674292358672,US,Fully remote,US,L
+37,2020,EN,FT,Machine Learning Engineer,250000,USD,1.8263178402700573,US,Partially remote,US,L
+38,2020,EN,FT,Data Analyst,10000,USD,-1.0038052797857633,NG,Fully remote,NG,S
+39,2020,EN,FT,Machine Learning Engineer,138000,USD,0.5055937175773411,US,Fully remote,US,S
+40,2020,MI,FT,Data Scientist,45760,USD,-0.582116934897446,PH,Fully remote,US,S
+41,2020,EX,FT,Data Engineering Manager,70000,EUR,-0.1803219971071878,ES,Partially remote,ES,L
+42,2020,MI,FT,Machine Learning Infrastructure Engineer,44000,EUR,-0.5299955007697513,PT,No remote,PT,M
+43,2020,MI,FT,Data Engineer,106000,USD,0.12824396823656495,US,Fully remote,US,L
+44,2020,MI,FT,Data Engineer,88000,GBP,0.2092798269074966,GB,Partially remote,GB,L
+45,2020,EN,PT,ML Engineer,14000,EUR,-0.9334531358930424,DE,Fully remote,DE,S
+46,2020,MI,FT,Data Scientist,60000,GBP,-0.21422451364952314,GB,Fully remote,GB,S
+47,2020,SE,FT,Data Engineer,188000,USD,1.0952027009223038,US,Fully remote,US,L
+48,2020,MI,FT,Data Scientist,105000,USD,0.1164517885696657,US,Fully remote,US,L
